@@ -1,0 +1,1839 @@
+{
+  "c": [
+    [
+      "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"
+    ],
+    [
+      "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"
+    ]
+  ],
+  "b": "6yg-ggdQgQAg8SAADJkAjc-JMNnOnYuIGgH_iBV7uf8",
+  "success": [
+    [
+      "2c8e12e523f64b01b6fcf94f26378f42.d",
+      1418083993056,
+      {
+        "plext": {
+          "text": "[secure]  yuzawa111 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "yuzawa111",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "fdd0410f054f4fc4928ff8ff9167052c.d",
+      1418083843837,
+      {
+        "plext": {
+          "text": "[secure] KINGTHEKING: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "KINGTHEKING: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "58a43ff1b283449c820ff51158a2795a.d",
+      1418083607448,
+      {
+        "plext": {
+          "text": "[secure] coizmo: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "coizmo: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "b9ec4bf1e8284b4a8ac0c7fdb31db613.d",
+      1418083394312,
+      {
+        "plext": {
+          "text": "[secure] aokht: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "aokht: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "eb3098e65c6a4647aaa5f06245ebb2cb.d",
+      1418083298589,
+      {
+        "plext": {
+          "text": "[secure]  Benten3 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "Benten3",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "ae19e7941a204625bf401f4cc6dabc26.d",
+      1418083296256,
+      {
+        "plext": {
+          "text": "[secure]  sblus1864 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "sblus1864",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "abf2b1f0e3f0452b92eeaa368345e909.d",
+      1418083169653,
+      {
+        "plext": {
+          "text": "[secure] Sandanbara: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Sandanbara: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "7496e4bc719d418cb1f0f5aa4f01eea1.d",
+      1418083045089,
+      {
+        "plext": {
+          "text": "[secure] muyakuta: いつの間にか会社周辺が緑化してる！うれしい！",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "muyakuta: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "いつの間にか会社周辺が緑化してる！うれしい！"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "560c4a743c7340a0bd15ed16e9f48103.d",
+      1418082806547,
+      {
+        "plext": {
+          "text": "[secure]  Norila captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "Norila",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "598487c644254e838b965f209751691a.d",
+      1418082682852,
+      {
+        "plext": {
+          "text": "[secure]  milanotoday created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "milanotoday",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "6c8bbc52885b456395460bfeb47cc9e3.d",
+      1418082673260,
+      {
+        "plext": {
+          "text": "[secure]  rainydog created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "rainydog",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "4ef91198d91245699c54e1fc3f07822a.d",
+      1418082335932,
+      {
+        "plext": {
+          "text": "[secure] Nekoani: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Nekoani: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "334420637f214513b8b5331c7781c25f.d",
+      1418082319424,
+      {
+        "plext": {
+          "text": "[secure] Englenophyta: みんなーっ！だいすきだよーっ♡！",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Englenophyta: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "みんなーっ！だいすきだよーっ♡！"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "04d5878e268c453b899d9b4935578ed2.d",
+      1418082178426,
+      {
+        "plext": {
+          "text": "[secure]  eihire490 created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "eihire490",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "b8c70083f7a940a3a2614e96707304c0.d",
+      1418082112814,
+      {
+        "plext": {
+          "text": "[secure] Ninja900a7: @satchin3 緑化、お疲れさまですー",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Ninja900a7: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": ""
+              }
+            ],
+            [
+              "AT_PLAYER",
+              {
+                "plain": "@satchin3",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " 緑化、お疲れさまですー"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "5a3b50f03ea7436bb20d87bcabe7d8e1.d",
+      1418082093789,
+      {
+        "plext": {
+          "text": "[secure]  ed6223 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "ed6223",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "f3dda1252d1c41479f53c7034bf5c9f5.d",
+      1418082083247,
+      {
+        "plext": {
+          "text": "[secure]  GOUNN456 created their first Link.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "GOUNN456",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Link."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "367d525c33634edf90d9d3b674d74c9e.d",
+      1418081994239,
+      {
+        "plext": {
+          "text": "[secure] Ninja900a7: @SOEYUTAO お時間があればセン北駅前、キャプチャお願いします",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Ninja900a7: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": ""
+              }
+            ],
+            [
+              "AT_PLAYER",
+              {
+                "plain": "@SOEYUTAO",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " お時間があればセン北駅前、キャプチャお願いします"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "405fbe7fda604758902965b73c3ca5ec.d",
+      1418081898055,
+      {
+        "plext": {
+          "text": "[secure]  fjkken created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "fjkken",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "65c69ac226554704a71f5cd3015b11bd.d",
+      1418081898055,
+      {
+        "plext": {
+          "text": "[secure]  fjkken created their first Link.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "fjkken",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Link."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "3158daf6a21b4df2b485efa451e3ebce.d",
+      1418081889617,
+      {
+        "plext": {
+          "text": "[secure]  masa195 created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "masa195",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "52653615c7184e14b3cf7521b8ebfa04.d",
+      1418081704477,
+      {
+        "plext": {
+          "text": "[secure] weight265: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "weight265: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "fa7e369847fc4b8f9afb6eeac8d1ecd2.d",
+      1418081680340,
+      {
+        "plext": {
+          "text": "[secure]  Kocho54 created their first Link.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "Kocho54",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Link."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "e5b1d471a6e54e9398cf2baef2884fe2.d",
+      1418081407055,
+      {
+        "plext": {
+          "text": "[secure]  greess captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "greess",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "bd3fd485847540b4ba336b04d6ec4b52.d",
+      1418081385711,
+      {
+        "plext": {
+          "text": "[secure] junoagojuju: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "junoagojuju: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "053aa4a3b6444b85ad30417f2477cdb7.d",
+      1418081339980,
+      {
+        "plext": {
+          "text": "[secure]  erikoeriko captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "erikoeriko",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1857b8ce7227472a91e3ab6d3c73cbd9.d",
+      1418081279708,
+      {
+        "plext": {
+          "text": "[secure]  obara created their first Link.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "obara",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Link."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "f0ba0e21fbf84d759760ab203b4a7ddf.d",
+      1418081279708,
+      {
+        "plext": {
+          "text": "[secure]  obara created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "obara",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "424951f359c64f1a863b6a2fbed897bf.d",
+      1418080858974,
+      {
+        "plext": {
+          "text": "[secure] wisedude: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "wisedude: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "b8d865f9b23348889c119c0c426dcede.d",
+      1418080829067,
+      {
+        "plext": {
+          "text": "[secure] Benten3: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Benten3: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1b237ae169ee4ee380cebee9bb2c04d1.d",
+      1418080588869,
+      {
+        "plext": {
+          "text": "[secure] TTfnm9: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "TTfnm9: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "d2aa771451584fc298c21603f2d9e3be.d",
+      1418080257354,
+      {
+        "plext": {
+          "text": "[secure]  hasemaru created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "hasemaru",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1032150b332145598f060d8c1c66a93e.d",
+      1418079651854,
+      {
+        "plext": {
+          "text": "[secure] SAGARA0831: ｵﾊﾖｳｺﾞｻﾞｲﾏｽ お茶の水ソラシティ近辺浄化中 レゾ足りないので刺してやってください",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "SAGARA0831: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "ｵﾊﾖｳｺﾞｻﾞｲﾏｽ お茶の水ソラシティ近辺浄化中 レゾ足りないので刺してやってください"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "5646d40660df43539ffe99af4a782cd0.d",
+      1418079221813,
+      {
+        "plext": {
+          "text": "[secure] greess: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "greess: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "b8eb9335344543b49fd9c3be7b98e76a.d",
+      1418079088910,
+      {
+        "plext": {
+          "text": "[secure]  suhoi227 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "suhoi227",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "55da35beb3314253b0a3505c6db57ded.d",
+      1418079050569,
+      {
+        "plext": {
+          "text": "[secure] kmmrt212348: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "kmmrt212348: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "f3b5683da71e451986550e16c2ffc76c.d",
+      1418078544899,
+      {
+        "plext": {
+          "text": "[secure] 00Yamato00: おはようございますヽ(・ω・)ノ初めて一日くらいですがよろしくお願いします",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "00Yamato00: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "おはようございますヽ(・ω・)ノ初めて一日くらいですがよろしくお願いします"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1147f25d24c6459f9f02c8a5408653ba.d",
+      1418077143382,
+      {
+        "plext": {
+          "text": "[secure]  natadekoko93 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "natadekoko93",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "58c98f4737574ab99dd01a5ac3eba672.d",
+      1418077027175,
+      {
+        "plext": {
+          "text": "[secure] hideox: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "hideox: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "52ff946046c940ce9a1d50f059ade890.d",
+      1418076173402,
+      {
+        "plext": {
+          "text": "[secure] hoshiyo: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "hoshiyo: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "157f44ad5b6b4a979f6089f77ce012f6.d",
+      1418075811135,
+      {
+        "plext": {
+          "text": "[secure]  norah1208 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "norah1208",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "f62c22d6619e44279c3ba52e9150ec00.d",
+      1418074726868,
+      {
+        "plext": {
+          "text": "[secure] wanjakko: 国領駅の写真が変なのになってる…",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "wanjakko: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "国領駅の写真が変なのになってる…"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "d9763298f4934a73a7c963934a1390b6.d",
+      1418074039167,
+      {
+        "plext": {
+          "text": "[secure]  kuzmaster575 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "kuzmaster575",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "a2e6df6f663c43a6aa55e033e0f50f0e.d",
+      1418072632799,
+      {
+        "plext": {
+          "text": "[secure]  riri88 captured their first Portal.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "riri88",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured their first Portal."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "c14f7b7814b94bf1a5dcfb5cddd3b7b0.d",
+      1418071786190,
+      {
+        "plext": {
+          "text": "[secure] Soechan: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "Soechan: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "89eb28b4340a44eebabf44d5f46a5cbd.d",
+      1418069496949,
+      {
+        "plext": {
+          "text": "[secure] efuji2: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "efuji2: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "2cd3c173c94142beb3ae756ea473eb9a.d",
+      1418068402037,
+      {
+        "plext": {
+          "text": "[secure] testchan: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "testchan: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "11eb5ca5aecf4c0f8723a2e06d501819.d",
+      1418067587644,
+      {
+        "plext": {
+          "text": "[secure]  skywalk1989 created their first Control Field",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "skywalk1989",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Control Field"
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "5bb9f47b8f764f878fbf52ac5810ff53.d",
+      1418067587644,
+      {
+        "plext": {
+          "text": "[secure]  skywalk1989 created their first Link.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " "
+              }
+            ],
+            [
+              "PLAYER",
+              {
+                "plain": "skywalk1989",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created their first Link."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "2096ab52a7634e6ea835190ce152b554.d",
+      1418062580888,
+      {
+        "plext": {
+          "text": "[secure] guts0818: has completed training.",
+          "markup": [
+            [
+              "SECURE",
+              {
+                "plain": "[secure] "
+              }
+            ],
+            [
+              "SENDER",
+              {
+                "plain": "guts0818: ",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "has completed training."
+              }
+            ]
+          ],
+          "plextType": "PLAYER_GENERATED",
+          "categories": 2,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "artifacts": [
+    {
+      "targetInfos": [
+        {
+          "portalInfo": {
+            "title": "Duke Kahanamoku Mosaic",
+            "image": "http://lh3.ggpht.com/kAhBh_UCyaAHlSuTcKzgOiykQe0CQoy3WwIuye2iIm6tGhh41iv06ciMCRoaXepAgRWwFehFi_0C1brEz-OV",
+            "level": 5,
+            "latE6": -33780250,
+            "health": 39.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 151293735,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "portalGuid": "6288ccfb8de2487e844d2c5f964304cf.16",
+          "team": "RESISTANCE"
+        },
+        {
+          "portalInfo": {
+            "title": "Clam Shell",
+            "image": "http://lh5.ggpht.com/0OIK_cjUpX10CkM5brShdA7xCDv0c2FssXUfjE45HFbS0skPOIggw-AozB--voee8n9TNkK0YIWLqn9kq9o",
+            "level": 6,
+            "latE6": 34713724,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 135353211,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "portalGuid": "eebb2014db844e00941cb671f33d88dd.16",
+          "team": "ENLIGHTENED"
+        }
+      ],
+      "fragmentInfos": [
+        {
+          "portalInfo": {
+            "title": "Pentecostal Church",
+            "image": "http://lh6.ggpht.com/k_ErpzNpLmYDXowRwDG87fS4geMm7VzFm7Np4I1WkwZXncNc1afgWClvHVvmTp9tCVbXBN6j_wFVLAjOQWJE",
+            "level": 6,
+            "latE6": 68655233,
+            "health": 64.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 27540817,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            22
+          ],
+          "portalGuid": "1e8247cd33824825aa92c06380484f44.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Дом Молодежи MisterPink\"\"",
+            "image": "http://lh5.ggpht.com/QK_bc22Qj0opxkMItg7UNMpP9kDQN8fKq_v_elC0u3m5GZU9sVZC0z9BfykeALuC15LccYTl4Y9RmAQmSSKOtw",
+            "level": 4,
+            "latE6": 69005456,
+            "health": 70.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 33108550,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            32
+          ],
+          "portalGuid": "ee88837f9f08438ea4df321fee509631.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Iglesia De San Agustin ",
+            "image": "http://lh4.ggpht.com/9HdGVLnMRbadpINxlU_lULruW3y1CduyioNxldFH2mfRXxjswGTXD7eiD39y0i5AJrqeA4pZgK2korseJr49aw",
+            "level": 7,
+            "latE6": 14910657,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -92265026,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            38
+          ],
+          "portalGuid": "206a76a1e4a144ddb4c20d5e0c87cee6.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Madanbashi Kouminkan Monument",
+            "image": "http://lh4.ggpht.com/JLUpNoQrKxteOSb1bzjxWc00AlNjxE63SK1TWDr7UfS_mLefhZXaHxRGhQ3rdPhSuS2W-25sC_2FHo9l8-Vi",
+            "level": 8,
+            "latE6": 26194499,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 127695628,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            39
+          ],
+          "portalGuid": "c50b1757984a40ba951facc002cc97bc.16"
+        },
+        {
+          "portalInfo": {
+            "title": "安全地蔵尊",
+            "image": "http://lh6.ggpht.com/2Dc_c7P_bNJeSHo27FhDytTCyAdooZw5TnMupUJ7Ib7rNJUsyZZ_detxXbYN1RraPzqVhPU65LIecBCGtnU",
+            "level": 6,
+            "latE6": 35601541,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 135870968,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            23,
+            35
+          ],
+          "portalGuid": "0890bb76dbc5496692aede90c224dde3.16"
+        },
+        {
+          "portalInfo": {
+            "title": "St. Paul Chapel",
+            "image": "http://lh4.ggpht.com/X5ZEsyJ04rucI-NtOv9i9NUtzCDgNceqWAVyzjel0Qls_FlqA0bZHgd_VhpTCq35HDvRRziwsPerE8xGQd2NAQ",
+            "level": 1,
+            "latE6": 68422204,
+            "health": 0,
+            "ornaments": [],
+            "resCount": 0,
+            "lngE6": 27428205,
+            "team": "NEUTRAL",
+            "type": "portal"
+          },
+          "fragments": [
+            20
+          ],
+          "portalGuid": "8c9d8b0bcdce4f159010168888c3a28d.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Todds",
+            "image": "http://lh6.ggpht.com/RPtZeH7PpsLfBA4kSJCkxTyRqt4x0DDygAdBvh_dYVzH8pBbZtXmAWv-QMaKzmL1lJ0NQ_bHO7mIj2AZWioI",
+            "level": 2,
+            "latE6": 21470056,
+            "health": 10.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -71147091,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            15
+          ],
+          "portalGuid": "a275dd4f0e8d4298bfdda1123d7ebc57.12"
+        },
+        {
+          "portalInfo": {
+            "title": "Giant Joker",
+            "image": "http://lh4.ggpht.com/Z-ltyTzflREHUVitJkqoolsJCJhO0yqux7yaIgRNYAXjMSdDYmgAE9VF3mAouEoGUNF4hl3A3raccPHfJk5fEA",
+            "level": 3,
+            "latE6": 17748110,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 83344179,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            34
+          ],
+          "portalGuid": "c0bacd8b7f814c12ad896328d842e098.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Andes Road",
+            "image": "http://lh4.ggpht.com/k1L3jt5mj1rye_yK7C53G96DjizKzbWQmCcDRg7mZ8XlRf23Fu8h_p5oqVMvGZLHAt97xV6qWjuqI9q7PKMR",
+            "level": 5,
+            "latE6": 40692605,
+            "health": 70.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -74017017,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            31
+          ],
+          "portalGuid": "e258e03395f64b07b6335f4062dd6f46.12"
+        },
+        {
+          "portalInfo": {
+            "title": "Clam Shell",
+            "image": "http://lh5.ggpht.com/0OIK_cjUpX10CkM5brShdA7xCDv0c2FssXUfjE45HFbS0skPOIggw-AozB--voee8n9TNkK0YIWLqn9kq9o",
+            "level": 6,
+            "latE6": 34713724,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 135353211,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            1,
+            2,
+            5,
+            8,
+            9,
+            40
+          ],
+          "portalGuid": "eebb2014db844e00941cb671f33d88dd.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Grand Turk Historic Lighthouse",
+            "image": "http://lh6.ggpht.com/-R9LvJiP7QQ2Hfelv4cEk8WMLDh9UmHJEqXw9a2QorcJtFbrrZuB5jsvEVBvGBHX5wSCUbSbTfAT-rHMCMCl",
+            "level": 4,
+            "latE6": 21511617,
+            "health": 10.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -71133422,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            29
+          ],
+          "portalGuid": "705c01e24a15451e90f66a2ec891bab2.12"
+        },
+        {
+          "portalInfo": {
+            "title": "St Johns Church Pembroke Est 1621",
+            "image": "http://lh3.ggpht.com/1vq2CENHk1nGqraco_kTd9KiSTyl3B8DYTCq2f-fyoyH9aQhpCLkRqdtZ6z8Ksmvw4kM0QCKVK0x8tpn3OEZBA",
+            "level": 5,
+            "latE6": 32300694,
+            "health": 40.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -64786856,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            26
+          ],
+          "portalGuid": "6493ba11349d4c928b5ed32158a90445.16"
+        },
+        {
+          "portalInfo": {
+            "title": "H.M.S. Vixen",
+            "image": "http://lh3.ggpht.com/thAdG5rYRi4uRsnnku5ReNFX9Lo6UBX8uZEmM0_EGXFwq0QD0ZHcA2KBW05g0hgDi0bjaHJoR6IoeI5wg6ud",
+            "level": 7,
+            "latE6": 32306031,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -64885604,
+            "team": "RESISTANCE",
+            "type": "portal"
+          },
+          "fragments": [
+            27
+          ],
+          "portalGuid": "c2154a500d2a4cf1a867e1faf690f76a.16"
+        },
+        {
+          "portalInfo": {
+            "title": "Duke Kahanamoku Mosaic",
+            "image": "http://lh3.ggpht.com/kAhBh_UCyaAHlSuTcKzgOiykQe0CQoy3WwIuye2iIm6tGhh41iv06ciMCRoaXepAgRWwFehFi_0C1brEz-OV",
+            "level": 5,
+            "latE6": -33780250,
+            "health": 39.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 151293735,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            3,
+            4,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            14,
+            17,
+            18,
+            19,
+            24,
+            30,
+            33,
+            36
+          ],
+          "portalGuid": "6288ccfb8de2487e844d2c5f964304cf.16"
+        },
+        {
+          "portalInfo": {
+            "title": "St Paul's Church",
+            "image": "http://lh6.ggpht.com/fIJ8W9p0JU3GLw5cXN8dyRTr7Eq6m-eN2BbEW0G_cn9TnCTiKOm3A7rCwDX49Vp0u4Uz_W9hmpCWKo_5IfEG",
+            "level": 5,
+            "latE6": 32283012,
+            "health": 93.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": -64776360,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            37
+          ],
+          "portalGuid": "68779632a89e4825a92fc446b85ebc96.16"
+        },
+        {
+          "portalInfo": {
+            "title": "St. Mary’s Anglican Pro-Cathed",
+            "image": "http://lh5.ggpht.com/zENJxCgAjJpFZroeLtLM65HtSZ46N1Cwz6wIPelE8hW397Sapx6Hs1Otjys4xyyPlaoX5eoJkKEdraauqdrf",
+            "level": 1,
+            "latE6": 21467522,
+            "health": 0,
+            "ornaments": [],
+            "resCount": 0,
+            "lngE6": -71146570,
+            "team": "NEUTRAL",
+            "type": "portal"
+          },
+          "fragments": [
+            16
+          ],
+          "portalGuid": "bb6b9cdf1fea427aad54d066948ba89f.12"
+        },
+        {
+          "portalInfo": {
+            "title": "Arca de Triumf",
+            "image": "http://lh4.ggpht.com/7_cG3WM5hKl1ClASrdrI188ndD1oNTIMf_oPvVsOpK_Xc9Q9Y5J2BsBUfrvYfPXmLEC0XxAaatheofDLI88u",
+            "level": 6,
+            "latE6": 47024760,
+            "health": 84.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 28832575,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            21
+          ],
+          "portalGuid": "6b10644bfc70420b9d0535a7317c02e4.12"
+        },
+        {
+          "portalInfo": {
+            "title": "Ethnographical Museum Varna",
+            "image": "http://lh3.ggpht.com/6XllFsJn9euqV7TVUq_ScUr_BB3ohG4ACQ8Y0V7b1ZjmO4ewV0wXXDFOwkmq80IZYzmfhIy-fV0zkg8gqGG0TBKD0Z52uFI5ryIyeyNejGxCB92s",
+            "level": 4,
+            "latE6": 43201097,
+            "health": 31.0,
+            "ornaments": [],
+            "resCount": 5,
+            "lngE6": 27913320,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            25
+          ],
+          "portalGuid": "94b161e3ea614cbab4018bfc61fd499c.16"
+        },
+        {
+          "portalInfo": {
+            "title": "JR琵琶湖線 山科駅",
+            "image": "http://lh5.ggpht.com/9irIlRV96TUwOp8RYLfAD-PF-9EZdofmXaEBLhrSV7DjY_n6bsMcc4e5ZMy5hZ-FSnrOrSELYuTLUtjdC12k",
+            "level": 8,
+            "latE6": 34992560,
+            "health": 100.0,
+            "ornaments": [],
+            "resCount": 8,
+            "lngE6": 135816470,
+            "team": "ENLIGHTENED",
+            "type": "portal"
+          },
+          "fragments": [
+            28
+          ],
+          "portalGuid": "2822defded7241dd86017b0ff9df9c84.16"
+        }
+      ],
+      "artifactId": "helios"
+    }
+  ],
+  "c": [
+    [
+      "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"
+    ],
+    [
+      "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"
+    ]
+  ],
+  "b": "6yg-ggdQgQAg8SAADJkAjc-JMNnOnYuIGgH_iBV7uf8"
+}

@@ -1,0 +1,2560 @@
+{
+  "c": [
+    [
+      "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"
+    ],
+    [
+      "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"
+    ]
+  ],
+  "b": "6yg-ggdQgQAg8SAADJkAjc-JMNnOnYuIGgH_iBV7uf8",
+  "success": [
+    [
+      "7f5c79fc989c49c8aa311a3843675866.d",
+      1418087019241,
+      {
+        "plext": {
+          "text": "lchiGEKI deployed an L6 Resonator on ピンクの象 (5 Chome-3-1 Akasaka, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "lchiGEKI",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L6"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "ピンクの象",
+                "plain": "ピンクの象 (5 Chome-3-1 Akasaka, Minato, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35673265,
+                "address": "5 Chome-3-1 Akasaka, Minato, Tokyo, Japan",
+                "lngE6": 139736329
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "c798b3f53c834666b492e7d79eb82620.d",
+      1418087019353,
+      {
+        "plext": {
+          "text": "syrinx05p deployed an L6 Resonator on ウッディサークル (Japan, 東通り（バス）（Tokyo）)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "syrinx05p",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L6"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "ウッディサークル",
+                "plain": "ウッディサークル (Japan, 東通り（バス）（Tokyo）)",
+                "team": "ENLIGHTENED",
+                "latE6": 35691451,
+                "address": "Japan, 東通り（バス）（Tokyo）",
+                "lngE6": 139694372
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "0f62e916234d485ea21edb84a6ab1a9a.d",
+      1418087019359,
+      {
+        "plext": {
+          "text": "Iggy1117 deployed an L4 Resonator on Soumon Gate 惣門 (Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "Iggy1117",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Soumon Gate 惣門",
+                "plain": "Soumon Gate 惣門 (Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線)",
+                "team": "ENLIGHTENED",
+                "latE6": 35656153,
+                "address": "Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線",
+                "lngE6": 139749720
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "fa24a6bd360a44a9943d5f188fb0b4f0.d",
+      1418087019443,
+      {
+        "plext": {
+          "text": "ynario deployed an L4 Resonator on 第二新橋会館 (7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "ynario",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "第二新橋会館",
+                "plain": "第二新橋会館 (7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35669221,
+                "address": "7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan",
+                "lngE6": 139762366
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "4439b2e6e8ba43f582fbb50c2e4d6c1e.d",
+      1418087019490,
+      {
+        "plext": {
+          "text": "Fifstorm deployed an L2 Resonator on 日生劇場 (1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "Fifstorm",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L2"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "日生劇場",
+                "plain": "日生劇場 (1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35672917,
+                "address": "1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan",
+                "lngE6": 139758355
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "83f8a13e639442dd9be0e702dc3d192e.d",
+      1418087019611,
+      {
+        "plext": {
+          "text": "nk16 linked 大京 ライオン (Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線) to 国立能楽堂 (4 Chome-17-6 Sendagaya, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "nk16",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " linked "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "大京 ライオン",
+                "plain": "大京 ライオン (Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線)",
+                "team": "RESISTANCE",
+                "latE6": 35681154,
+                "address": "Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線",
+                "lngE6": 139708740
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "国立能楽堂",
+                "plain": "国立能楽堂 (4 Chome-17-6 Sendagaya, Shibuya, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35680692,
+                "address": "4 Chome-17-6 Sendagaya, Shibuya, Tokyo, Japan",
+                "lngE6": 139707814
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "8d725bfcae1e41debe971953f2e7b5a4.d",
+      1418087019611,
+      {
+        "plext": {
+          "text": "nk16 created a Control Field @大京 ライオン (Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線) +2 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "nk16",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " created a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "大京 ライオン",
+                "plain": "大京 ライオン (Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線)",
+                "team": "RESISTANCE",
+                "latE6": 35681154,
+                "address": "Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−25 都道414号線",
+                "lngE6": 139708740
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " +"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "2"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "10a613f687be49e19879cc4dc420ae47.d",
+      1418087019670,
+      {
+        "plext": {
+          "text": "BaccaraGogo deployed an L1 Resonator on Tokyo Station Big Silver Bell (Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BaccaraGogo",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L1"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Tokyo Station Big Silver Bell",
+                "plain": "Tokyo Station Big Silver Bell (Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35681450,
+                "address": "Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan",
+                "lngE6": 139767400
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "f3c5f10f150b4e9aa6b0a18f135749a6.d",
+      1418087019670,
+      {
+        "plext": {
+          "text": "BaccaraGogo captured Tokyo Station Big Silver Bell (Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BaccaraGogo",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Tokyo Station Big Silver Bell",
+                "plain": "Tokyo Station Big Silver Bell (Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35681450,
+                "address": "Metropolitan Expressway Yaesu Route, Tokyo 104-0028, Japan",
+                "lngE6": 139767400
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "62d9c8f7ba6b4133adeb4235eccce713.d",
+      1418087019771,
+      {
+        "plext": {
+          "text": "HaMAnkE deployed an L3 Resonator on ペルー蒸気消防自動車 (Japan, Tokyo, Minato, Toranomon, ２丁目９−１６)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "HaMAnkE",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L3"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "ペルー蒸気消防自動車",
+                "plain": "ペルー蒸気消防自動車 (Japan, Tokyo, Minato, Toranomon, ２丁目９−１６)",
+                "team": "RESISTANCE",
+                "latE6": 35668355,
+                "address": "Japan, Tokyo, Minato, Toranomon, ２丁目９−１６",
+                "lngE6": 139745800
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "136b4732c19b4eaca568fa3cd604f1fb.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link JPC (3 Chome-17-4 Minamiaoyama, Minato, Tokyo, Japan) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "JPC",
+                "plain": "JPC (3 Chome-17-4 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35664664,
+                "address": "3 Chome-17-4 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714620
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "280eeed2356b4a02a776678acd3976aa.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed a Control Field @銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan) -5 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銕仙會",
+                "plain": "銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663463,
+                "address": "5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714914
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " -"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "35878f306a2e4b4fac0741c63a543641.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link Teeth (5 Chome-7-11 Minamiaoyama, Minato, Tokyo, Japan) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Teeth",
+                "plain": "Teeth (5 Chome-7-11 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35662443,
+                "address": "5 Chome-7-11 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139713240
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "46886f0b6cce4c8fb65fba516c3cc26b.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link 福井 恐竜博士 (5 Chome-4-44 Minamiaoyama, Minato, Tokyo, Japan) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "福井 恐竜博士",
+                "plain": "福井 恐竜博士 (5 Chome-4-44 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35662442,
+                "address": "5 Chome-4-44 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139713505
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "473a30401cf341829f6073e0f8207f4d.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed a Control Field @銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan) -77 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銕仙會",
+                "plain": "銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663463,
+                "address": "5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714914
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " -"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "77"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "79a0687a4154414796d71541d4c41756.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link Prada Building (Japan, Tokyo, Minato, Minamiaoyama, ５丁目２−６) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Prada Building",
+                "plain": "Prada Building (Japan, Tokyo, Minato, Minamiaoyama, ５丁目２−６)",
+                "team": "RESISTANCE",
+                "latE6": 35663743,
+                "address": "Japan, Tokyo, Minato, Minamiaoyama, ５丁目２−６",
+                "lngE6": 139714488
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "9375fd22706e488ab0cdbb20de18370c.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed a Control Field @銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan) -12 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銕仙會",
+                "plain": "銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663463,
+                "address": "5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714914
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " -"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "12"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "9a8836527aac4f4798fa3d314a788664.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link FURULA (3 Chome-5-20 Kitaaoyama, Minato, Tokyo, Japan) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "FURULA",
+                "plain": "FURULA (3 Chome-5-20 Kitaaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35665702,
+                "address": "3 Chome-5-20 Kitaaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139712735
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "bff59fdc51794d3b8d70831440ca4b0a.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed a Control Field @銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan) -8 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銕仙會",
+                "plain": "銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663463,
+                "address": "5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714914
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " -"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "8"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "e13047112ec647e38684206a62109ccc.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed the Link お地蔵さん (5 Chome-5-8 Minamiaoyama, Minato, Tokyo, Japan) to Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed the Link "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "お地蔵さん",
+                "plain": "お地蔵さん (5 Chome-5-8 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663492,
+                "address": "5 Chome-5-8 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714011
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " to "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Minami Aoyama Square Building",
+                "plain": "Minami Aoyama Square Building (5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663583,
+                "address": "5 Chome-3-2 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714735
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "f2326aa5fa4a4879b0b0c8ec9d2441d9.d",
+      1418087019784,
+      {
+        "plext": {
+          "text": "soundub destroyed a Control Field @銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan) -26 MUs",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "soundub",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed a Control Field @"
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銕仙會",
+                "plain": "銕仙會 (5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35663463,
+                "address": "5 Chome-3-3 Minamiaoyama, Minato, Tokyo, Japan",
+                "lngE6": 139714914
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " -"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "26"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " MUs"
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "a2deab8962fc4e0a92a135f322d28f21.d",
+      1418087019799,
+      {
+        "plext": {
+          "text": "commedesgarcons captured 銀座道 (Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "commedesgarcons",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " captured "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銀座道",
+                "plain": "銀座道 (Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35672448,
+                "address": "Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan",
+                "lngE6": 139766453
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "f006777c837b4dd2a3e2dd02112b301e.d",
+      1418087019799,
+      {
+        "plext": {
+          "text": "commedesgarcons deployed an L1 Resonator on 銀座道 (Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "commedesgarcons",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L1"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "銀座道",
+                "plain": "銀座道 (Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35672448,
+                "address": "Chuo Dori, Ginza, Chuo, Tokyo 104-0061, Japan",
+                "lngE6": 139766453
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "944a6591859c48229d2808338014ada7.d",
+      1418087020080,
+      {
+        "plext": {
+          "text": "PendragonR destroyed an L5 Resonator on Statue of Dhokan Ohta （太田道灌像） (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "PendragonR",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Statue of Dhokan Ohta （太田道灌像）",
+                "plain": "Statue of Dhokan Ohta （太田道灌像） (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線)",
+                "team": "RESISTANCE",
+                "latE6": 35677322,
+                "address": "Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線",
+                "lngE6": 139764837
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "ab511c7e31e944059b3c03e7fc391add.d",
+      1418087020080,
+      {
+        "plext": {
+          "text": "PendragonR destroyed an L7 Resonator on JR Tokyo Station Exit2 (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, 3 Chome 都道406号線)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "PendragonR",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L7"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "JR Tokyo Station Exit2",
+                "plain": "JR Tokyo Station Exit2 (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, 3 Chome 都道406号線)",
+                "team": "RESISTANCE",
+                "latE6": 35677331,
+                "address": "Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, 3 Chome 都道406号線",
+                "lngE6": 139765586
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "e8b481c8db8a45489a0066dde7f9c5bb.d",
+      1418087020080,
+      {
+        "plext": {
+          "text": "PendragonR destroyed an L5 Resonator on 意心帰 (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "PendragonR",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "意心帰",
+                "plain": "意心帰 (Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線)",
+                "team": "RESISTANCE",
+                "latE6": 35677206,
+                "address": "Japan, 〒100-0005 Tokyo, Chiyoda, Marunouchi, ３丁目 都道406号線",
+                "lngE6": 139764403
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "af46c6512c5644a897d62dc03913bf88.d",
+      1418087020114,
+      {
+        "plext": {
+          "text": "amiyuki deployed an L4 Resonator on 即位記念碑 (5 Chome-17-5 Shinjuku, Shinjuku, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "amiyuki",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "即位記念碑",
+                "plain": "即位記念碑 (5 Chome-17-5 Shinjuku, Shinjuku, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35693162,
+                "address": "5 Chome-17-5 Shinjuku, Shinjuku, Tokyo, Japan",
+                "lngE6": 139705504
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1c762f88fad24d2d9a3eec9d3a3da843.d",
+      1418087020407,
+      {
+        "plext": {
+          "text": "mymhyknt deployed an L5 Resonator on バラ節電 (Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "mymhyknt",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "バラ節電",
+                "plain": "バラ節電 (Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社)",
+                "team": "ENLIGHTENED",
+                "latE6": 35671579,
+                "address": "Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社",
+                "lngE6": 139770966
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "69b7baab44cb498bb9b28b73a3befd13.d",
+      1418087020436,
+      {
+        "plext": {
+          "text": "emixyz deployed an L4 Resonator on 安平神社 (1 Chome-22-8 Ginza, Chūō, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "emixyz",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "安平神社",
+                "plain": "安平神社 (1 Chome-22-8 Ginza, Chūō, Tokyo, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35671929,
+                "address": "1 Chome-22-8 Ginza, Chūō, Tokyo, Japan",
+                "lngE6": 139771217
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "24ea33eb51b24af7aa0f09bbb3e5b018.d",
+      1418087020667,
+      {
+        "plext": {
+          "text": "akipoo destroyed an L5 Resonator on Genie du Repos Eternel (Japan, Tokyo, Meguro, Mita, １丁目１３−１)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "akipoo",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Genie du Repos Eternel",
+                "plain": "Genie du Repos Eternel (Japan, Tokyo, Meguro, Mita, １丁目１３−１)",
+                "team": "RESISTANCE",
+                "latE6": 35642097,
+                "address": "Japan, Tokyo, Meguro, Mita, １丁目１３−１",
+                "lngE6": 139714137
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "28b677edd84047c5b87d1cd67843159e.d",
+      1418087020667,
+      {
+        "plext": {
+          "text": "akipoo destroyed an L8 Resonator on 東京都写真美術館 (Japan, Tokyo, Meguro, Mita, １丁目４−５)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "akipoo",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L8"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "東京都写真美術館",
+                "plain": "東京都写真美術館 (Japan, Tokyo, Meguro, Mita, １丁目４−５)",
+                "team": "RESISTANCE",
+                "latE6": 35641227,
+                "address": "Japan, Tokyo, Meguro, Mita, １丁目４−５",
+                "lngE6": 139713561
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "2e81ebe430004db1bd23072418ca7363.d",
+      1418087020766,
+      {
+        "plext": {
+          "text": "YUIKNK deployed an L3 Resonator on タージマハール (Japan, Tokyo, Minato, Akasaka, ３丁目１３−１２)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "YUIKNK",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L3"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "タージマハール",
+                "plain": "タージマハール (Japan, Tokyo, Minato, Akasaka, ３丁目１３−１２)",
+                "team": "ENLIGHTENED",
+                "latE6": 35673271,
+                "address": "Japan, Tokyo, Minato, Akasaka, ３丁目１３−１２",
+                "lngE6": 139737376
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "85b2bf3a0f7944588d8e1902bc210e6e.d",
+      1418087020807,
+      {
+        "plext": {
+          "text": "jujufem destroyed an L7 Resonator on 眠るリスクモンスター (2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "jujufem",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L7"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "眠るリスクモンスター",
+                "plain": "眠るリスクモンスター (2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35684956,
+                "address": "2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan",
+                "lngE6": 139767182
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "feb0cf7f44ed48a4b4c048d5c6fe3cc9.d",
+      1418087020928,
+      {
+        "plext": {
+          "text": "Fifstorm deployed an L2 Resonator on 日生劇場 (1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "Fifstorm",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L2"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "日生劇場",
+                "plain": "日生劇場 (1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35672917,
+                "address": "1 Chome-1-1 Yūrakuchō, Chiyoda-ku, Tōkyō-to, Japan",
+                "lngE6": 139758355
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "abc2584a2f99479b9421cc7cb075b2cd.d",
+      1418087020937,
+      {
+        "plext": {
+          "text": "lchiGEKI deployed an L5 Resonator on ピンクの象 (5 Chome-3-1 Akasaka, Minato, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "lchiGEKI",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "ピンクの象",
+                "plain": "ピンクの象 (5 Chome-3-1 Akasaka, Minato, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35673265,
+                "address": "5 Chome-3-1 Akasaka, Minato, Tokyo, Japan",
+                "lngE6": 139736329
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "9eea190bafb44920a026cf51de5c6f65.d",
+      1418087021119,
+      {
+        "plext": {
+          "text": "syrinx05p deployed an L5 Resonator on ウッディサークル (Japan, 東通り（バス）（Tokyo）)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "syrinx05p",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "ウッディサークル",
+                "plain": "ウッディサークル (Japan, 東通り（バス）（Tokyo）)",
+                "team": "ENLIGHTENED",
+                "latE6": 35691451,
+                "address": "Japan, 東通り（バス）（Tokyo）",
+                "lngE6": 139694372
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "1d27f4bd2bd24796a57c0d1bc1ec05b4.d",
+      1418087021290,
+      {
+        "plext": {
+          "text": "Iggy1117 deployed an L4 Resonator on Soumon Gate 惣門 (Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "Iggy1117",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Soumon Gate 惣門",
+                "plain": "Soumon Gate 惣門 (Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線)",
+                "team": "ENLIGHTENED",
+                "latE6": 35656153,
+                "address": "Japan, 〒105-0011 Tokyo, Minato, Shibakoen, ４丁目 都道409号線",
+                "lngE6": 139749720
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "fb4d9b548fcb4c0e9151d11136d16649.d",
+      1418087021503,
+      {
+        "plext": {
+          "text": "9056 deployed an L3 Resonator on 慶應義塾大学 裏門 (2 Chome-15-53 Mita, Minato-ku, Tōkyō-to, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "9056",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L3"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "慶應義塾大学 裏門",
+                "plain": "慶應義塾大学 裏門 (2 Chome-15-53 Mita, Minato-ku, Tōkyō-to, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35648785,
+                "address": "2 Chome-15-53 Mita, Minato-ku, Tōkyō-to, Japan",
+                "lngE6": 139741841
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "a9f37aa8d8194838bca160b1cf7c4313.d",
+      1418087021514,
+      {
+        "plext": {
+          "text": "kamechiyo destroyed an L8 Resonator on 眠るリスクモンスター (2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "kamechiyo",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L8"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "眠るリスクモンスター",
+                "plain": "眠るリスクモンスター (2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan)",
+                "team": "RESISTANCE",
+                "latE6": 35684956,
+                "address": "2 Chome-2-1 Ōtemachi, Chiyoda-ku, Tōkyō-to 100-6802, Japan",
+                "lngE6": 139767182
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "024b4d2f990848c8b00980e77354552d.d",
+      1418087021627,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L5 Resonator on １つの果実 (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目６−１７)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "１つの果実",
+                "plain": "１つの果実 (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目６−１７)",
+                "team": "ENLIGHTENED",
+                "latE6": 35659244,
+                "address": "Japan, Tokyo, Shibuya, Dogenzaka, ２丁目６−１７",
+                "lngE6": 139698808
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "4ad095325ea04ee6a3169dd550101de6.d",
+      1418087021627,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L5 Resonator on Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Diamond Mirror",
+                "plain": "Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35658875,
+                "address": "2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan",
+                "lngE6": 139698847
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "9d6b65d979de49efb2573d1b05087c3a.d",
+      1418087021627,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L7 Resonator on Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L7"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Diamond Mirror",
+                "plain": "Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35658875,
+                "address": "2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan",
+                "lngE6": 139698847
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "adcfbc317dab4e779350e05dce652a9a.d",
+      1418087021627,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L5 Resonator on Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Diamond Mirror",
+                "plain": "Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35658875,
+                "address": "2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan",
+                "lngE6": 139698847
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "d37f17a3277c477ab971fe92eda42236.d",
+      1418087021627,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L8 Resonator on Portrait (Japan, 〒150-0042 Tokyo, Shibuya, Dogenzaka, ２丁目２９−６)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L8"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Portrait",
+                "plain": "Portrait (Japan, 〒150-0042 Tokyo, Shibuya, Dogenzaka, ２丁目２９−６)",
+                "team": "ENLIGHTENED",
+                "latE6": 35659291,
+                "address": "Japan, 〒150-0042 Tokyo, Shibuya, Dogenzaka, ２丁目２９−６",
+                "lngE6": 139698283
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "560c8ab2bafd4c8e9c2cfada3b6be9df.d",
+      1418087021718,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L5 Resonator on Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Diamond Mirror",
+                "plain": "Diamond Mirror (2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35658875,
+                "address": "2 Chome-6-8 Dogenzaka, Shibuya, Tokyo, Japan",
+                "lngE6": 139698847
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "80d3f2a825e04315a0bf0cb61deb2392.d",
+      1418087021718,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L5 Resonator on Weather Tower - Balancing Stone Structure (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目５−１)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L5"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Weather Tower - Balancing Stone Structure",
+                "plain": "Weather Tower - Balancing Stone Structure (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目５−１)",
+                "team": "ENLIGHTENED",
+                "latE6": 35659456,
+                "address": "Japan, Tokyo, Shibuya, Dogenzaka, ２丁目５−１",
+                "lngE6": 139699682
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "889ee86871634ee1b94366835392f0a6.d",
+      1418087021718,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L4 Resonator on Fossil of the Time (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目３０−４)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "Fossil of the Time",
+                "plain": "Fossil of the Time (Japan, Tokyo, Shibuya, Dogenzaka, ２丁目３０−４)",
+                "team": "ENLIGHTENED",
+                "latE6": 35659449,
+                "address": "Japan, Tokyo, Shibuya, Dogenzaka, ２丁目３０−４",
+                "lngE6": 139698920
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "948899d10284491b809cf5fa5cf80987.d",
+      1418087021718,
+      {
+        "plext": {
+          "text": "BronzeAge destroyed an L7 Resonator on おやひなや (2 Chome-6-3 Dogenzaka, Shibuya, Tokyo, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "BronzeAge",
+                "team": "RESISTANCE"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " destroyed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L7"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "おやひなや",
+                "plain": "おやひなや (2 Chome-6-3 Dogenzaka, Shibuya, Tokyo, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35658963,
+                "address": "2 Chome-6-3 Dogenzaka, Shibuya, Tokyo, Japan",
+                "lngE6": 139699238
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "RESISTANCE"
+        }
+      }
+    ],
+    [
+      "67fc6380081643c08fa63aa65f6ef7b1.d",
+      1418087021919,
+      {
+        "plext": {
+          "text": "ynario deployed an L4 Resonator on 第二新橋会館 (7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "ynario",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "第二新橋会館",
+                "plain": "第二新橋会館 (7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan)",
+                "team": "ENLIGHTENED",
+                "latE6": 35669221,
+                "address": "7 Chome-8-16 Ginza, Chūō-ku, Tōkyō-to 104-0041, Japan",
+                "lngE6": 139762366
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ],
+    [
+      "a2bb5f54fe0d429da5530b62102be2aa.d",
+      1418087021948,
+      {
+        "plext": {
+          "text": "mymhyknt deployed an L4 Resonator on バラ節電 (Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社)",
+          "markup": [
+            [
+              "PLAYER",
+              {
+                "plain": "mymhyknt",
+                "team": "ENLIGHTENED"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " deployed an "
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": "L4"
+              }
+            ],
+            [
+              "TEXT",
+              {
+                "plain": " Resonator on "
+              }
+            ],
+            [
+              "PORTAL",
+              {
+                "name": "バラ節電",
+                "plain": "バラ節電 (Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社)",
+                "team": "ENLIGHTENED",
+                "latE6": 35671579,
+                "address": "Japan, 〒104-0061 東京都中央区 日本空港サービス株式会社",
+                "lngE6": 139770966
+              }
+            ]
+          ],
+          "plextType": "SYSTEM_BROADCAST",
+          "categories": 1,
+          "team": "ENLIGHTENED"
+        }
+      }
+    ]
+  ]
+}
