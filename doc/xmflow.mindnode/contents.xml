@@ -30,9 +30,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{0, 0}</string>
+				<string>{-170, -51}</string>
 				<key>nodeID</key>
-				<string>18CB0C8A-6668-4A5D-97C4-8163C28524D4</string>
+				<string>D25C7D03-43EE-44D4-B391-7C8C699E940B</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -51,172 +51,11 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
-						<true/>
-						<key>location</key>
-						<string>{-269, -195.5}</string>
-						<key>nodeID</key>
-						<string>10B35C91-5B6F-490A-B8C7-B45985F95FE4</string>
-						<key>strokeColor</key>
-						<string>{0.136, 0.807, 0.880, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<true/>
-								<key>location</key>
-								<string>{-410, -238.5}</string>
-								<key>nodeID</key>
-								<string>B56E5C24-5711-4512-9E8D-F6FB8B1B298F</string>
-								<key>strokeColor</key>
-								<string>{0.136, 0.807, 0.880, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;pubnub&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 pubnub}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<true/>
-								<key>location</key>
-								<string>{-381, -195.5}</string>
-								<key>nodeID</key>
-								<string>461E1A7F-866C-491A-922F-C068BE86C2C3</string>
-								<key>strokeColor</key>
-								<string>{0.136, 0.807, 0.880, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;bing&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 bing}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<true/>
-								<key>location</key>
-								<string>{-441, -152.5}</string>
-								<key>nodeID</key>
-								<string>92AA3CBB-02C6-4E08-B7A9-96567BB4000F</string>
-								<key>strokeColor</key>
-								<string>{0.136, 0.807, 0.880, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;googlemap&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 googlemap}</string>
-								</dict>
-							</dict>
-						</array>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;使えそうな外部サービス&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'8e\'67\'82\'a6\'82\'bb\'82\'a4\'82\'c8\'8a\'4f\'95\'94\'83\'54\'81\'5b\'83\'72\'83\'58}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{164, -96}</string>
+						<string>{-6, -489.5}</string>
 						<key>nodeID</key>
-						<string>EA1EC3F1-BD0A-4DAC-B5F1-0348EEA5264B</string>
+						<string>52EC51CE-4287-41A1-96F2-BAFD57BEC85E</string>
 						<key>strokeColor</key>
 						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
@@ -237,9 +76,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{290, -110.5}</string>
+								<string>{121, -503}</string>
 								<key>nodeID</key>
-								<string>6D843E07-59BA-4662-858D-6BEA715F7582</string>
+								<string>7268A02E-0A0D-4A6B-9DB3-EBC9FD8B49B1</string>
 								<key>strokeColor</key>
 								<string>{0.822, 0.084, 0.348, 1.000}</string>
 								<key>strokeStyle</key>
@@ -263,7 +102,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 IITC
-\f1  \'82\'cc\'88\'ea\'95\'94\'82\'f0\'8f\'43\'90\'b3\'82\'b5\'82\'c4\'81\'41pubnub \'82\'c9\'91\'97\'82\'e9\'82\'e6\'82\'a4\'82\'c9\'82\'b7\'82\'e9}</string>
+\f1 \cf2  \'82\'cc\'88\'ea\'95\'94\'82\'f0\'8f\'43\'90\'b3\'82\'b5\'82\'c4\'81\'41pubnub \'82\'c9\'91\'97\'82\'e9\'82\'e6\'82\'a4\'82\'c9\'82\'b7\'82\'e9}</string>
 								</dict>
 							</dict>
 						</array>
@@ -296,9 +135,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{164, -17}</string>
+						<string>{-6, -411.5}</string>
 						<key>nodeID</key>
-						<string>F0D5F5FD-4CA4-41B9-9B16-88EA3B00F303</string>
+						<string>D5391523-7B24-4981-9B40-069C7D1FA16C</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.742, 0.041, 1.000}</string>
 						<key>strokeStyle</key>
@@ -319,9 +158,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{308, -38.5}</string>
+								<string>{138, -433}</string>
 								<key>nodeID</key>
-								<string>4DCC39A5-D0AD-4FF6-B7AF-D238A4D3E45F</string>
+								<string>A8130B14-8E31-41CE-B2DC-F8803ACC079F</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -359,9 +198,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{308, 4.5}</string>
+								<string>{138, -390}</string>
 								<key>nodeID</key>
-								<string>C809E6E7-1580-4373-9D09-639B0B1F45E7</string>
+								<string>E9B37585-5A8F-45C7-99E8-DD3A9665549E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -417,9 +256,372 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-248, 76}</string>
+						<string>{-439, -343.5}</string>
 						<key>nodeID</key>
-						<string>E2780442-B4FA-41CE-98F7-04200BE9ACF2</string>
+						<string>6524D714-3D87-4A2D-AA82-A8593D6E0911</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-580, -386.5}</string>
+								<key>nodeID</key>
+								<string>68E363F8-E812-49ED-A6C0-9F17C0E811E8</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;pubnub&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 pubnub}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-551, -343.5}</string>
+								<key>nodeID</key>
+								<string>B9041A3C-A814-4BFD-84B6-8F7EF1BBBCEC</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;bing&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 bing}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-611, -300.5}</string>
+								<key>nodeID</key>
+								<string>98152FE2-F712-49CB-AEBB-6C4B72CF771F</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;googlemap&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 googlemap}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;使えそうな外部サービス&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'8e\'67\'82\'a6\'82\'bb\'82\'a4\'82\'c8\'8a\'4f\'95\'94\'83\'54\'81\'5b\'83\'72\'83\'58}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-6, -304}</string>
+						<key>nodeID</key>
+						<string>D5EB2BF1-B826-4E5A-8ABA-E82974AE4CA5</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{175, -347}</string>
+								<key>nodeID</key>
+								<string>433179FC-F5D9-4840-AC65-B6E9530640D5</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{323, -347}</string>
+										<key>nodeID</key>
+										<string>27899191-3DC3-42DA-9E2D-9AD4F248FCD5</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica"; -cocoa-font-postscriptname: "Helvetica"; '&gt;Google&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Google}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;Map表示&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Map\'95\'5c\'8e\'a6}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{175, -304}</string>
+								<key>nodeID</key>
+								<string>119494C7-DF6F-4217-BD6E-9F68CF78CA67</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;websocket&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 websocket}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{175, -261}</string>
+								<key>nodeID</key>
+								<string>2EA56DA5-EABB-4EE2-AD49-749DD566B839</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;アニメーションさせる部分&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'83\'41\'83\'6a\'83\'81\'81\'5b\'83\'56\'83\'87\'83\'93\'82\'b3\'82\'b9\'82\'e9\'95\'94\'95\'aa}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;クライアント&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'83\'4e\'83\'89\'83\'43\'83\'41\'83\'93\'83\'67}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-282, 25}</string>
+						<key>nodeID</key>
+						<string>D22C58ED-E2EF-4FD2-9F98-27A5C263BAF6</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.742, 0.041, 1.000}</string>
 						<key>strokeStyle</key>
@@ -440,9 +642,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-608, -109.5}</string>
+								<string>{-445, -214.5}</string>
 								<key>nodeID</key>
-								<string>EED67758-05D1-431C-AB9A-677C37C48FCA</string>
+								<string>5531CFBB-17E0-4733-ACC7-C4C286EB5479</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -463,92 +665,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-835, -109.5}</string>
+										<string>{-568, -214.5}</string>
 										<key>nodeID</key>
-										<string>8C05B300-4C86-4B18-A5ED-48972F14C0E7</string>
-										<key>strokeColor</key>
-										<string>{1.000, 0.742, 0.041, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;で、自前で&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica"; -cocoa-font-postscriptname: "Helvetica"; '&gt;API&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;叩く&lt;/span&gt;&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'82\'c5\'81\'41\'8e\'a9\'91\'4f\'82\'c5
-\f1 API
-\f0 \'92\'40\'82\'ad}</string>
-										</dict>
-									</dict>
-								</array>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;認証した後に、ほとんどのコードを空にする&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'94\'46\'8f\'d8\'82\'b5\'82\'bd\'8c\'e3\'82\'c9\'81\'41\'82\'d9\'82\'c6\'82\'f1\'82\'c7\'82\'cc\'83\'52\'81\'5b\'83\'68\'82\'f0\'8b\'f3\'82\'c9\'82\'b7\'82\'e9}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<true/>
-								<key>location</key>
-								<string>{-410, 3.5}</string>
-								<key>nodeID</key>
-								<string>F6344B13-D906-4F3B-927D-004E58848840</string>
-								<key>strokeColor</key>
-								<string>{1.000, 0.742, 0.041, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<true/>
-										<key>location</key>
-										<string>{-533, 3.5}</string>
-										<key>nodeID</key>
-										<string>7D31EF03-2146-4E7E-99E7-B73AE5229BEF</string>
+										<string>350CC4D4-08EF-4066-97BE-59F19BECAAC7</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -569,9 +688,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-821, -39.5}</string>
+												<string>{-856, -257.5}</string>
 												<key>nodeID</key>
-												<string>4DEC63AB-015D-41F1-B627-F6101F9C1140</string>
+												<string>58F013C2-6F51-4C3C-A90F-034654D0190C</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.742, 0.041, 1.000}</string>
 												<key>strokeStyle</key>
@@ -609,9 +728,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-701, 3.5}</string>
+												<string>{-736, -214.5}</string>
 												<key>nodeID</key>
-												<string>BB1F44A9-4EDE-424D-8CE8-8FA429B651D0</string>
+												<string>4E1A91E9-9165-4426-BC1F-092A3AC32E96</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.742, 0.041, 1.000}</string>
 												<key>strokeStyle</key>
@@ -649,9 +768,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-693, 46.5}</string>
+												<string>{-728, -171.5}</string>
 												<key>nodeID</key>
-												<string>B0D071FF-E3ED-4A0C-A74C-31A6B5FC1115</string>
+												<string>44AF3754-9A55-499B-9A7F-4EC1A80ECFB3</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.742, 0.041, 1.000}</string>
 												<key>strokeStyle</key>
@@ -725,9 +844,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-360, 154}</string>
+								<string>{-394, -20}</string>
 								<key>nodeID</key>
-								<string>8531EF87-3562-45A6-A610-2C3A69660A80</string>
+								<string>E61457EE-0940-4C7B-A87A-F2D3EA2D153D</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -748,9 +867,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-565, 89.5}</string>
+										<string>{-599, -128.5}</string>
 										<key>nodeID</key>
-										<string>550C10DC-F925-4AB2-A9D2-6CB3DB2D9438</string>
+										<string>648A29AA-7047-47B4-A0BD-F9C4645A4351</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -788,9 +907,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-527, 132.5}</string>
+										<string>{-561, -41.5}</string>
 										<key>nodeID</key>
-										<string>156337E3-F5F2-41A6-A372-4CC7D35421F6</string>
+										<string>D8D17DBA-8F83-45B7-8390-DF843F83A2D5</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -798,7 +917,129 @@
 										<key>strokeWidth</key>
 										<real>4</real>
 										<key>subnodes</key>
-										<array/>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-740, -85.5}</string>
+												<key>nodeID</key>
+												<string>DAF7F591-F625-471C-99CF-791EE2407313</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;ポータル情報&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'83\'7c\'81\'5b\'83\'5e\'83\'8b\'8f\'ee\'95\'f1}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-724, -42.5}</string>
+												<key>nodeID</key>
+												<string>89C0D3FF-5AF6-4E3D-9E8B-A541DF7745A2</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;リンク情報&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'83\'8a\'83\'93\'83\'4e\'8f\'ee\'95\'f1}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-693, 0.5}</string>
+												<key>nodeID</key>
+												<string>44923686-070C-44BE-A4D2-D1A9ECA406FE</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica"; -cocoa-font-postscriptname: "Helvetica"; '&gt;CF&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;情報&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 CF
+\f1 \'8f\'ee\'95\'f1}</string>
+												</dict>
+											</dict>
+										</array>
 										<key>title</key>
 										<dict>
 											<key>constrainedWidth</key>
@@ -828,9 +1069,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-507, 175.5}</string>
+										<string>{-541, 45.5}</string>
 										<key>nodeID</key>
-										<string>CD4C5D85-19AD-4C9D-8E3B-178CDAC1FDA8</string>
+										<string>A281E527-9B20-4974-B228-981F17E46011</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -838,7 +1079,48 @@
 										<key>strokeWidth</key>
 										<real>4</real>
 										<key>subnodes</key>
-										<array/>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-880, 45.5}</string>
+												<key>nodeID</key>
+												<string>0BF589BC-4DF3-4630-84F2-DE16494D5841</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;イベントのアーティファクト情報&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'83\'43\'83\'78\'83\'93\'83\'67\'82\'cc\'83\'41\'81\'5b\'83\'65\'83\'42\'83\'74\'83\'40\'83\'4e\'83\'67\'8f\'ee\'95\'f1}</string>
+												</dict>
+											</dict>
+										</array>
 										<key>title</key>
 										<dict>
 											<key>constrainedWidth</key>
@@ -868,9 +1150,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-505, 218.5}</string>
+										<string>{-539, 88.5}</string>
 										<key>nodeID</key>
-										<string>B08DCFBB-234C-4659-9BC3-E7A8AE9E6BBA</string>
+										<string>A3E6D7E5-A74A-4DBD-873D-6AF82B591368</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -926,9 +1208,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-407, 261.5}</string>
+								<string>{-517, 131.5}</string>
 								<key>nodeID</key>
-								<string>ABB0626B-7C28-4AD7-BCDB-CC36AD512C84</string>
+								<string>BB4BFF14-D0AB-4F20-8523-1D83E944DB66</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -949,9 +1231,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-757, 261.5}</string>
+										<string>{-867, 131.5}</string>
 										<key>nodeID</key>
-										<string>3412FD22-96A3-47F1-82A1-BB5C4790022C</string>
+										<string>EC5939D8-5E25-4BEA-BE39-C46B56614BA9</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -983,7 +1265,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;runHooks&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: bold 31px "Hiragino Kaku Gothic ProN"; text-align: left; -cocoa-font-postscriptname: "HiraKakuProN-W6"; '&gt;runHooks&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -992,7 +1274,252 @@
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 runHooks}</string>
+\f0\b\fs62 \cf2 runHooks}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-485, 216}</string>
+								<key>nodeID</key>
+								<string>AFCF3B6C-B268-4E01-8613-ACE7587CB002</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-994, 194.5}</string>
+										<key>nodeID</key>
+										<string>43DED764-788C-4CEF-8F07-E65291F1835C</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>447</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;load(JQUERY).then(JQUERYUI).thenRun(boot);&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 load(JQUERY).then(JQUERYUI).thenRun(boot);}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-710, 237.5}</string>
+										<key>nodeID</key>
+										<string>D50D58BD-1960-4BCD-8C45-3F62C4AF036E</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;function boot() {}&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 function boot() \{\}}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;bootシーケンス&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 boot\'83\'56\'81\'5b\'83\'50\'83\'93\'83\'58}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-409, 294}</string>
+								<key>nodeID</key>
+								<string>9CB705EC-3833-461B-9DC2-B689D101C84F</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-769, 280.5}</string>
+										<key>nodeID</key>
+										<string>858E964C-D5D4-42F1-A71C-9F7F0B0202B5</string>
+										<key>strokeColor</key>
+										<string>{1.000, 0.742, 0.041, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-996, 280.5}</string>
+												<key>nodeID</key>
+												<string>C6275ECE-37EE-4FFE-A7B4-52E4FBD1E20D</string>
+												<key>strokeColor</key>
+												<string>{1.000, 0.742, 0.041, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;で、自前で&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica"; -cocoa-font-postscriptname: "Helvetica"; '&gt;API&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;叩く&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'82\'c5\'81\'41\'8e\'a9\'91\'4f\'82\'c5
+\f1 \cf2 API
+\f0 \cf2 \'92\'40\'82\'ad}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;認証した後に、ほとんどのコードを空にする&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'94\'46\'8f\'d8\'82\'b5\'82\'bd\'8c\'e3\'82\'c9\'81\'41\'82\'d9\'82\'c6\'82\'f1\'82\'c7\'82\'cc\'83\'52\'81\'5b\'83\'68\'82\'f0\'8b\'f3\'82\'c9\'82\'b7\'82\'e9}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;仕組み&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'8e\'64\'91\'67\'82\'dd}</string>
 								</dict>
 							</dict>
 						</array>
@@ -1001,7 +1528,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;ingress intl の仕組み&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;IITC&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -1010,7 +1537,7 @@
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 ingress intl \'82\'cc\'8e\'64\'91\'67\'82\'dd}</string>
+\f0\fs36 \cf2 IITC}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -1025,11 +1552,11 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{164, 90.5}</string>
+						<string>{-6, 103}</string>
 						<key>nodeID</key>
-						<string>B45F959C-47E1-4661-979B-24062C4803F5</string>
+						<string>11DB53CA-0177-4BE8-82FA-AF67F0651FFA</string>
 						<key>strokeColor</key>
-						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
 						<integer>0</integer>
 						<key>strokeWidth</key>
@@ -1048,73 +1575,35 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{344, 47.5}</string>
+								<string>{156, -218}</string>
 								<key>nodeID</key>
-								<string>B4146B1C-0B5F-4C13-8D8D-07C047473568</string>
+								<string>980EF7E7-5AE9-4FEE-A32C-E42E4D7B9984</string>
 								<key>strokeColor</key>
-								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
 								<integer>0</integer>
 								<key>strokeWidth</key>
 								<real>5</real>
 								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{492, 47.5}</string>
-										<key>nodeID</key>
-										<string>46D17469-95D3-41C0-9511-D374AAE31CA9</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica"; -cocoa-font-postscriptname: "Helvetica"; '&gt;Google&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 Google}</string>
-										</dict>
-									</dict>
-								</array>
+								<array/>
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
-									<integer>300</integer>
+									<integer>690</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;Map表示&lt;/p&gt;</string>
+									<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;var PBNB = &amp;apos;&lt;/span&gt;&lt;a style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; ' href='https://cdn.pubnub.com/pubnub.min.js&amp;apos;'&gt;https://cdn.pubnub.com/pubnub.min.js&amp;apos;&lt;/a&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;// after all scripts have loaded, boot the actual app&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;load(JQUERY).then(JQUERYUI).then(PBNB).thenRun(boot);&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
-									<integer>1</integer>
+									<integer>0</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
 {\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 Map\'95\'5c\'8e\'a6}</string>
+\f0\fs36 \cf2 var PBNB = '{\field{\*\fldinst{HYPERLINK "https://cdn.pubnub.com/pubnub.min.js'"}}{\fldrslt https://cdn.pubnub.com/pubnub.min.js'}};\
+\
+// after all scripts have loaded, boot the actual app\
+load(JQUERY).then(JQUERYUI).then(PBNB).thenRun(boot);}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -1129,11 +1618,11 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{344, 90.5}</string>
+								<string>{156, -94}</string>
 								<key>nodeID</key>
-								<string>88ACBB58-E7E9-4099-BE52-A7DCE7FA2652</string>
+								<string>EEE497D0-E647-4D3A-B5BF-0B5CA712A174</string>
 								<key>strokeColor</key>
-								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
 								<integer>0</integer>
 								<key>strokeWidth</key>
@@ -1143,18 +1632,22 @@
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
-									<integer>300</integer>
+									<integer>742</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;websocket&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  window.PUBNUB_demo = PUBNUB.secure({&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;    publish_key: &amp;apos;pub-c-df90ee9f-adba-42a0-80e3-eb77b0e270cf&amp;apos;,&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;    subscribe_key: &amp;apos;sub-c-6e7764a4-7ffb-11e4-b601-02ee2ddab7fe&amp;apos;,&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;      ssl: true&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  });&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
-									<integer>1</integer>
+									<integer>0</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
 {\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 websocket}</string>
+\f0\fs36 \cf2   window.PUBNUB_demo = PUBNUB.secure(\{\
+    publish_key: 'pub-c-df90ee9f-adba-42a0-80e3-eb77b0e270cf',\
+    subscribe_key: 'sub-c-6e7764a4-7ffb-11e4-b601-02ee2ddab7fe',\
+      ssl: true\
+  \});}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -1169,11 +1662,54 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{344, 133.5}</string>
+								<string>{156, 57}</string>
 								<key>nodeID</key>
-								<string>CD1EA97F-92D1-41FA-862A-15AAB095E50B</string>
+								<string>FB87D73D-19A2-4D0A-864D-278E182A94BF</string>
 								<key>strokeColor</key>
-								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>691</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt; window.PUBNUB_demo.publish({&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;    channel: &amp;apos;my_channel&amp;apos;,&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;    message: {&amp;quot;getEntities&amp;quot;:&amp;quot;finished&amp;quot;}&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt; });&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2  window.PUBNUB_demo.publish(\{\
+    channel: 'my_channel',\
+    message: \{"getEntities":"finished"\}\
+ \});}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{156, 181}</string>
+								<key>nodeID</key>
+								<string>A6DE292D-556A-4B18-9D4E-A91B99CDEAB0</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
 								<integer>0</integer>
 								<key>strokeWidth</key>
@@ -1185,7 +1721,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;アニメーションさせる部分&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;4 portalDetail&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;   6 requests&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;   7 RenderDebugTiles&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;   8 DataCache&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  11 debug&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  18 artifact&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  20 MapDataRequest&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  23 Render&lt;/p&gt;&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;  29 chat&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -1194,7 +1730,16 @@
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 \'83\'41\'83\'6a\'83\'81\'81\'5b\'83\'56\'83\'87\'83\'93\'82\'b3\'82\'b9\'82\'e9\'95\'94\'95\'aa}</string>
+\f0\fs36 \cf2 4 portalDetail\
+   6 requests\
+   7 RenderDebugTiles\
+   8 DataCache\
+  11 debug\
+  18 artifact\
+  20 MapDataRequest\
+  23 Render\
+  29 chat\
+}</string>
 								</dict>
 							</dict>
 						</array>
@@ -1203,7 +1748,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;クライアント&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Hiragino Kaku Gothic ProN"; -cocoa-font-postscriptname: "HiraKakuProN-W3"; '&gt;コードメモ&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -1212,7 +1757,7 @@
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 \'83\'4e\'83\'89\'83\'43\'83\'41\'83\'93\'83\'67}</string>
+\f0\fs36 \cf2 \'83\'52\'81\'5b\'83\'68\'83\'81\'83\'82}</string>
 						</dict>
 					</dict>
 				</array>
@@ -1227,7 +1772,7 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg932\cocoartf1187\cocoasubrtf390
 {\fonttbl\f0\fnil\fcharset128 HiraKakuProN-W3;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 xmflow}</string>
