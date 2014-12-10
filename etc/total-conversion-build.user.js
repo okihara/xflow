@@ -1376,6 +1376,11 @@ function boot() {
   window.iitcLoaded = true;
   window.runHooks('iitcLoaded');
 
+  window.PUBNUB_demo = PUBNUB.secure({
+    publish_key: 'pub-c-df90ee9f-adba-42a0-80e3-eb77b0e270cf',
+    subscribe_key: 'sub-c-6e7764a4-7ffb-11e4-b601-02ee2ddab7fe',
+    ssl: true
+  });
 
   if (typeof android !== 'undefined' && android && android.bootFinished) {
     android.bootFinished();
@@ -11110,9 +11115,10 @@ try { console.log('done loading included JS'); } catch(e) {}
 //note: no protocol - so uses http or https as used on the current page
 var JQUERY = '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js';
 var JQUERYUI = '//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js';
+var PBNB = 'https://cdn.pubnub.com/pubnub.min.js';
 
 // after all scripts have loaded, boot the actual app
-load(JQUERY).then(JQUERYUI).thenRun(boot);
+load(JQUERY).then(JQUERYUI).then(PBNB).thenRun(boot);
 
 
 ;
@@ -11613,6 +11619,11 @@ window.chat.handlePublic = function(data, olderMsgs) {
   var old = chat._public.oldestTimestamp;
   chat.writeDataToHash(data, chat._public, true, olderMsgs);
   var oldMsgsWereAdded = old !== chat._public.oldestTimestamp;
+
+  window.PUBNUB_demo.publish({
+    channel: 'my_channel',
+    message: {"faction":"finished"}
+  });
 
   runHooks('publicChatDataAvailable', {raw: data, processed: chat._public.data});
 
@@ -14483,6 +14494,10 @@ window.MapDataRequest.prototype.handleResponse = function (data, tiles, success)
 
     // TODO? check for any requested tiles in 'tiles' not being mentioned in the response - and handle as if it's a 'timeout'?
 
+    window.PUBNUB_demo.publish({
+      channel: 'my_channel',
+      message: {"getEntities":"finished"}
+    });
 
     window.runHooks('requestFinished', {success: true});
   }
